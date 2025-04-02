@@ -180,6 +180,5 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 This README provides a comprehensive overview of your Online Art Gallery project, 
 including its features, tech stack, installation instructions, project structure, 
 and key components. 
-It's designed to help users understand what your project does and 
-how to get started with it.
+It's designed to help users understand what your project does and how to get started with it.
 ```
