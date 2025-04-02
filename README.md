@@ -36,26 +36,26 @@ A modern web application that showcases and promotes various artworks, allowing 
 
 2. Install dependencies:
 
-```shellscript
-npm install
-```
+   ```shellscript
+   npm install
+   ```
 
 
 3. Set up environment variables:
-Create a `.env.local` file in the root directory with the following variables:
+   Create a `.env.local` file in the root directory with the following variables:
 
-```plaintext
-NEXT_PUBLIC_SUPABASE_URL=your_supabase_url
-NEXT_PUBLIC_SUPABASE_ANON_KEY=your_supabase_anon_key
-SUPABASE_SERVICE_ROLE_KEY=your_supabase_service_role_key
-```
+   ```plaintext
+   NEXT_PUBLIC_SUPABASE_URL=your_supabase_url
+   NEXT_PUBLIC_SUPABASE_ANON_KEY=your_supabase_anon_key
+   SUPABASE_SERVICE_ROLE_KEY=your_supabase_service_role_key
+   ```
 
 
 4. Run the development server:
 
-```shellscript
-npm run dev
-```
+   ```shellscript
+   npm run dev
+   ```
 
 
 5. Open [localhost:3000](http://localhost:3000) in your browser to see the application.
@@ -177,5 +177,9 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 
 ```plaintext
-This README provides a comprehensive overview of your Online Art Gallery project, including its features, tech stack, installation instructions, project structure, and key components. It's designed to help users understand what your project does and how to get started with it.
+This README provides a comprehensive overview of your Online Art Gallery project, 
+including its features, tech stack, installation instructions, project structure, 
+and key components. 
+It's designed to help users understand what your project does and 
+how to get started with it.
 ```
