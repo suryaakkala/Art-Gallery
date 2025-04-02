@@ -58,7 +58,7 @@ npm run dev
 ```
 
 
-5. Open [http://localhost:3000](http://localhost:3000) in your browser to see the application.
+5. Open [localhost:3000](http://localhost:3000) in your browser to see the application.
 
 
 ## 📊 Database Schema
@@ -123,7 +123,7 @@ The application can be deployed to Vercel with the following steps:
 ## 🌐 Live Deployment
 
 You can access the live version of the application at:
-[Surya Akkala Art Gallery](https://suryaakkala-art-gallery.vercel.app/).
+[Surya Akkala's Art Gallery](https://suryaakkala-art-gallery.vercel.app/).
 
 ## 🔧 Configuration
 
@@ -163,6 +163,8 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 👨‍💻 Author
 
+- [Harsha Sri](https://github.com/DHarshasri1411)
+- [Sruthi Kanneti](https://github.com/Sruthi-3-0)
 - [Surya Akkala](https://github.com/suryaakkala)
 
 
