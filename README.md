@@ -123,7 +123,7 @@ The application can be deployed to Vercel with the following steps:
 ## 🌐 Live Deployment
 
 You can access the live version of the application at:
-[Surya Akkala Art Gallery](https://suryaakkala-art-gallery.vercel.app/)
+[Surya Akkala Art Gallery](https://suryaakkala-art-gallery.vercel.app/).
 
 ## 🔧 Configuration
 
